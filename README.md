@@ -2,7 +2,7 @@
 <H3> Name : KANCHARLA NARMADHA</H3>
 <H3> Register No : 212222110016</H3>
 <H3> Experiment 1</H3>
-<H3>DATE : 03-09-2024</H3>
+<H3>DATE : </H3>
 
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
